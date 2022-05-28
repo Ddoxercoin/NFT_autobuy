@@ -1,4 +1,4 @@
-# Ntf_autobuy
+# NFT_autobuy
 Autobot configurable to buy nft and presale coin
 
 Launch autobot.exe
